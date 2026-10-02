@@ -21,5 +21,6 @@ h2 { font-size: 1.25rem; margin: 32px 0 8px; color: var(--accent); }
 .muted { color: var(--muted); }
 a { color: var(--accent); overflow-wrap: anywhere; }
 ul { padding-left: 22px; }
+.badge { display: inline-block; margin: 10px 0 0; padding: 4px 12px; border: 1px solid #ff4e45; border-radius: 999px; color: #ffb3ae; font-size: 14px; font-weight: 600; }
 .card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 16px 20px; margin: 20px 0; }
 footer { margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--border); font-size: 14px; color: var(--muted); }
